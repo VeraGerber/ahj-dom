@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/mwnpiarnxahhc3iw?svg=true)](https://ci.appveyor.com/project/VeraGerber/ahj-dom)
+[![Build status]([https://ci.appveyor.com/api/projects/status/mwnpiarnxahhc3iw?svg=true](https://ci.appveyor.com/api/github/webhook?id=wrrfsq47cp2mfa1s))](https://ci.appveyor.com/project/VeraGerber/ahj-dom)
 
 [GitHub Pages](https://github.com/VeraGerber/ahj-dom)
 
