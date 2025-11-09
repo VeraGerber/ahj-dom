@@ -18,7 +18,7 @@ class GameBoard {
   }
 
   randomImg() {
-    setInterval(() => {
+    this.intervalId = setInterval(() => {
       do {
         this.currentIndexCell = Math.floor(Math.random() * this.boardSize);
       } while (this.currentIndexCell === this.previousIndexCell);
@@ -36,4 +36,5 @@ class GameBoard {
 }
 
 const newBoard = new GameBoard(4);
+
 newBoard.drawBoard();
